@@ -4,7 +4,7 @@
   "dependencies": {
     "alex": "~3",
     "autoprefixer": "~6",
-    "babel-eslint": "~8",
+    "babel-eslint": "~8.0",
     "bootlint": "~0",
     "coffeelint": "~1",
     "complexity-report": "~2.0.0-alpha",
@@ -35,7 +35,7 @@
     "textlint-rule-alex": "~1.2.0",
     "textlint-rule-common-misspellings": "~1.0.1",
     "textlint-rule-date-weekday-mismatch": "~1.0.5",
-    "textlint-rule-ginger": "~2.1.0",
+    "textlint-rule-ginger": ">=2.1.0 <2.1.2",
     "textlint-rule-max-comma": "~1.0.4",
     "textlint-rule-max-number-of-lines": "~1.0.3",
     "textlint-rule-ng-word": "~1.0.0",
